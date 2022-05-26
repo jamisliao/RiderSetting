@@ -1,0 +1,5 @@
+<keymap version="1" name="Visual Studio (macOS) copy" parent="Visual Studio OSX">
+  <action id="TriggerRefreshInUnity">
+    <keyboard-shortcut first-keystroke="ctrl meta r" second-keystroke="ctrl meta a" />
+  </action>
+</keymap>
